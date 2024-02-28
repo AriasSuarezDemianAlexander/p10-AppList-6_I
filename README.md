@@ -23,3 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 - Link de referencia: https://codesinsider.com/flutter-listview-example/?expand_article=1
 
 - Arias Suarez Demian Alexander a.21308051280315@cbtis128.edu.mx
+
+## Resultado de la Aplicacion en Flutter
+-![image](https://github.com/AriasSuarezDemianAlexander/p10-AppList-6_I/assets/143743142/94678396-00ac-4c90-9df6-cc63750c5601)
